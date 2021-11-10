@@ -1,5 +1,6 @@
 /venv/*
 local_settings.py
 db.sqlite3
-**/__pycache__
+__pycache__/
 /.vscode/
+*.pyc
