@@ -59,7 +59,7 @@ Mysite Backend
     		# in mac
 			source gitlab/mysite/bin/activate
             	# in windows
-            		./venv/Script/activate.ps1
+            	./venv/Script/activate.ps1
     		# install necessary dependencies, especially Django
     		for dev environment：pip install -r requirements-base.txt
     		# quit the virtual environment
