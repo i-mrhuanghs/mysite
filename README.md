@@ -25,7 +25,7 @@ Mysite Backend
 
         # the superuser has been created
         # Its account password is as follows
-                username:admin
+                username: admin
                 password: 123456
 
 
@@ -33,8 +33,8 @@ Mysite Backend
 
 	* Create local_settings.py
 
-			cd github/mysite/project
-			cp local_settings.py.example ../local_settings.py
+			cd github/mysite/mysite/
+			touch local_settings.py
 
 	Update database configuration
 
